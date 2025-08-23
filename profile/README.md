@@ -45,7 +45,7 @@ See individual repos for license files and contribution guidelines.
 
 - 🐙 GitHub: [@SuperClaude-Org](https://github.com/SuperClaude-Org)
 - 📧 Email: `contact@superclaude.org`
-- 🌍 Website: [superclaude-org.github.io](https://superclaude-org.github.io/SuperClaude_Website)
+- 🌍 Website: [SuperClaude]([https://superclaude-org.github.io/SuperClaude_Website](https://superclaude.netlify.app/))
 
 ---
 
