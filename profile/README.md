@@ -42,4 +42,4 @@ GitHub: `@SuperClaude-Org`.
 
 ***
 
-“Open-source is not just about code. It's about building communities and empowering creators.
+“Open-source is not just about code. It's about building communities and empowering creators."
