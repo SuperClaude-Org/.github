@@ -1,53 +1,45 @@
-# 🧠 Welcome to SuperClaude-Org
+# 🧠 SuperClaude-Org
 
-**Empowering Open-Source AI, Automation, and Innovation.**  
-SuperClaude-Org is a collective of passionate developers, researchers, and creators dedicated to building cutting-edge AI tools, open-source frameworks, and automation systems for the modern web.
+SuperClaude-Org is an open-source collective advancing AI-powered developer tools, agent configuration platforms, automation frameworks, and innovation-focused utilities for modern coding workflows.
 
----
+***
 
-## 🔥 Our Mission
+### Mission
 
-To create a suite of powerful, accessible, and modular tools that empower developers and users to leverage AI and automation — responsibly, creatively, and efficiently.
+Empower developers with modular, accessible, and practical AI & automation frameworks, encouraging creative and responsible technology use.
 
----
+***
 
-## 🚀 Our Projects
+### Featured Projects
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| 🔗 [SuperClaude Website](https://github.com/SuperClaude-Org/SuperClaude_Website) | The official website of SuperClaude. Built with love and hosted via GitHub Pages. | ✅ Active |
-| 🧠 [SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework)(Core) | The AI core project integrating Claude API with extensible Python tools. | ✅ Available|
-| 📦 [PyPI Packages](https://pypi.org/project/SuperClaude) | Easy-to-use Python packages with CLI and web interfaces. | ✅ Available|
-| 🧪 Research & Experiments | Experimental repos for R&D on AI models, automation bots, and dev tools. | 🧬 Active |
+| Project                  | Description                                                                            | Status      |
+|--------------------------|----------------------------------------------------------------------------------------|-------------|
+| SuperClaude_Website      | Main site and documentation hub                                                        | Active      |
+| SuperClaude_Framework    | Core meta-programming config framework with commands, personas, and dev methodology    | Available   |
+| SuperGemini_Framework    | Next-gen AI agent integration using Gemini platform, terminal automations              | Experimental|
+| crush                    | Fork of Crush: an AI-powered terminal coding agent                                     | Forked      |
+| heimdall_opencode        | Fork of Opencode: advanced agent for in-terminal AI coding assistance                  | Forked      |
+| heimdall_patcher         | Automated patching tool for Heimdall agent                                             | Beta        |
+| .github                  | Organization meta-workflows and templates                                              | Maintained  |
+| PyPI Packages            | Python packages with CLI and web interface support                                     | Available   |
+| Research & Experiments   | Rapid prototyping for new agent architectures, model R&D, and automation bots         | Active      |
 
-> 🌐 Check out our live site: [superclaude-org.github.io](https://superclaude-org.github.io/SuperClaude_Website)
+Additional languages in use: Python, Go, JavaScript, Zig.
 
----
+***
 
-## ✨ Get Involved
+### Get Involved
 
-We welcome developers, writers, designers, and dreamers to join the mission!
+Developers, writers, and creative technologists are invited to join, contribute, and participate in ideation and growth of new projects.  
+Open issues, join discussions, submit pull requests, and help shape the future of AI-driven productivity.
 
-✅ [Open Issues](https://github.com/orgs/SuperClaude-Org/projects)  
-📬 [Start a Discussion](https://github.com/SuperClaude-Org/SuperClaude_Website/discussions)  
-🛠️ [Submit a Pull Request](https://github.com/SuperClaude-Org/SuperClaude_Website/pulls)
+***
 
----
+### License & Contact
 
-## 📜 License
+All projects (unless specified) are released under the MIT License.  
+GitHub: `@SuperClaude-Org`.
 
-All projects are released under the MIT License unless stated otherwise.  
-See individual repos for license files and contribution guidelines.
+***
 
----
-
-## 📫 Connect With Us
-
-- 🐙 GitHub: [@SuperClaude-Org](https://github.com/SuperClaude-Org)
-- 📧 Email: `contact@superclaude.org`
-- 🌍 Website: [SuperClaude]([https://superclaude-org.github.io/SuperClaude_Website](https://superclaude.netlify.app/))
-
----
-
-> 💬 “Open-source is not just about code. It's about building communities and empowering creators.”
-
+“Open-source is not just about code. It's about building communities and empowering creators.
