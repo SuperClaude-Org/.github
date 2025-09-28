@@ -9,6 +9,9 @@ SuperClaude-Org is an open-source collective advancing AI-powered developer tool
 Empower developers with modular, accessible, and practical AI & automation frameworks, encouraging creative and responsible technology use.
 
 ***
+### Follow Us On
+
+[![SuperClaude](https://skillicons.dev/icons?i=twitter)](https://x.com/SuperClaude_Dev)
 
 ### Featured Projects
 
