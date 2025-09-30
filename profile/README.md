@@ -12,7 +12,7 @@ Empower developers with modular, accessible, and practical AI & automation frame
 ### Follow Us On
 
 [![SuperClaude](https://skillicons.dev/icons?i=twitter)](https://x.com/SuperClaude_Dev)
-<td><a target="_blank" href="https://discord.gg/F969Bfnj"><img src="https://dcbadge.limes.pink/api/server/F969Bfnj" alt="" /></a></td>
+<td><a target="_blank" href="https://discord.gg/4ZgNubDzJh"><img src="https://dcbadge.limes.pink/api/server/4ZgNubDzJh" alt="" /></a></td>
  
 
 ### Featured Projects
